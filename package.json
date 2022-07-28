@@ -1,0 +1,24 @@
+{
+  "name": "geektrust",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node subPlan.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubhamtripathi18/geekTrust.git"
+  },
+  "keywords": [],
+  "author": "Shubham Tripathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shubhamtripathi18/geekTrust/issues"
+  },
+  "homepage": "https://github.com/Shubhamtripathi18/geekTrust#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
